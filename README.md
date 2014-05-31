@@ -9,8 +9,10 @@
 <p>If there are bugs in the theme, please let me know by submitting an issue here, and I’ll look into fixing them. But, know that it may take a day, or 30, to get fixed. <strong>Updates will be announced on Twitter.</strong> <a href="https://twitter.com/tristandenyer" target="_blank">Follow me</a>.</p>
 <h2>Changelog</h2>
 <h3>0.1.1:</h3>
+<p>May 31, 2014</p>
 <ul><li>Removed superfluous CSS file.</li>
 <li>Added line to Google Analytics script to support display advertising (though native, I still recommend you use a Google Analytics plugin.)</li></ul>
 
 <h3>0.1.0:</h3>
+<p>May 29, 2014</p>
 <ul><li>Initial commit.</li></ul>
