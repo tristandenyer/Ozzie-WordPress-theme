@@ -59,7 +59,7 @@ function roots_google_analytics() { ?>
   e.src='//www.google-analytics.com/analytics.js';
   r.parentNode.insertBefore(e,r)}(window,document,'script','ga'));
   ga('create','<?php echo GOOGLE_ANALYTICS_ID; ?>');ga('require', 'displayfeatures');ga('send','pageview');
-</script>a href=""></a>
+</script>
 <?php }
 if (GOOGLE_ANALYTICS_ID && !current_user_can('manage_options')) {
   add_action('wp_footer', 'roots_google_analytics', 20);
